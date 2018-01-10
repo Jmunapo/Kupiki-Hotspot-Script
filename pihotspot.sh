@@ -10,7 +10,7 @@ LOGPATH="/var/log/"
 # Password for user root (MySql/MariaDB not system)
 MYSQL_PASSWORD="pihotspot"
 # Name of the hotspot that will be visible for users/customers
-HOTSPOT_NAME="pihotspot"
+HOTSPOT_NAME="pishop.co.zw"
 # IP of the hotspot
 HOTSPOT_IP="192.168.10.1"
 # Use HTTPS to connect to web portal
